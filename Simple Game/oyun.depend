@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1483655749 source:c:\users\uasmt\desktop\oyun\fonksiyon.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"oyun.h"
+
+1483655749 c:\users\uasmt\desktop\oyun\oyun.h
+
+1483639347 source:c:\users\uasmt\desktop\oyun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"oyun.h"
+
+1483655749 source:c:\users\uasmt\desktop\projeler\1-1-2 proje\oyun\fonksiyon.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"oyun.h"
+
+1483655749 c:\users\uasmt\desktop\projeler\1-1-2 proje\oyun\oyun.h
+
+1483657154 source:c:\users\uasmt\desktop\projeler\1-1-2 proje\oyun\oyun.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"oyun.h"
+
